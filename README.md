@@ -8,7 +8,7 @@
 
 # Post Details: `Shows full post content, including text and images, upon clicking a post.`
 
-# Navigation: `Implements smooth navigation between the list of posts and individual post details, including a back button for easy return.`
+# Navigation: `Implements navigation between the list of posts and individual post details, including a back button for easy return.`
 
 # Responsive UI/UX: `Designed for a clean and visually appealing user experience on all devices.`
 
