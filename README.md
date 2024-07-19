@@ -14,8 +14,9 @@
 
 # State Management: `Utilizes React hooks (useState, useEffect) for managing state and loading data.`
 
-# Testing: `Includes basic unit tests for components and routing using Jest and React Testing Library.`
-
 # Deployment: `Deployed using GitHub Pages for live demonstration.`
 
 `This project serves as a practical example of building a fully functional blog application with modern React practices and tools.`
+
+
+# Value for environment variable REACT_APP_NEWS_API_URL = "https://newsapi.org/v2"
